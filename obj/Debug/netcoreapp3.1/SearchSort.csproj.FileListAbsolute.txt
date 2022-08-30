@@ -1,0 +1,28 @@
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.exe
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.deps.json
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.dll
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\bin\Debug\netcoreapp3.1\SearchSort.pdb
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.dll
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.pdb
+C:\Users\Gabriel\Desktop\Sort-And-Search-Algorithms-master\obj\Debug\netcoreapp3.1\SearchSort.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.exe
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.deps.json
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.runtimeconfig.json
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.dll
+C:\Users\Gabriel\Desktop\GITHUB sort and search\bin\Debug\netcoreapp3.1\SearchSort.pdb
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.dll
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.pdb
+C:\Users\Gabriel\Desktop\GITHUB sort and search\obj\Debug\netcoreapp3.1\SearchSort.genruntimeconfig.cache
